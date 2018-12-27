@@ -10,8 +10,7 @@
   "dependencies": {
     "discord.js": "discordjs/discord.js",
     "dotenv": "^6.2.0",
-    "klasa": "dirigeants/klasa",
-    "sqlite": "^3.0.0"
+    "klasa": "dirigeants/klasa"
   },
   "devDependencies": {
     "eslint": "^5.11.0",

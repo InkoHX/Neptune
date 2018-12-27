@@ -1,9 +1,6 @@
 // Copyright (c) 2017-2018 dirigeants. All rights reserved. MIT license.
 const { Command, util } = require('klasa')
 
-// Add to your schema definition:
-// KlasaClient.defaultGuildSchema.add('minAccAge', 'integer', { default: 1800000 });
-
 module.exports = class extends Command {
 
   constructor (...args) {
